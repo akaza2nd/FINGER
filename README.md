@@ -1,2 +1,2 @@
-# FINGER
-指ガチ
+# BMS-Table-Template
+BMS難易度表のテンプレートです。
